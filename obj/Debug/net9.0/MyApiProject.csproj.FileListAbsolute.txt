@@ -9,7 +9,6 @@
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/Azure.Core.dll
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/Azure.Identity.dll
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/Humanizer.dll
-/Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
@@ -34,6 +33,9 @@
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/System.CodeDom.dll
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/System.Composition.AttributedModel.dll
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/bin/Debug/net9.0/System.Composition.Convention.dll
@@ -120,6 +122,7 @@
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/obj/Debug/net9.0/MyApiProject.csproj.CoreCompileInputs.cache
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/obj/Debug/net9.0/MyApiProject.MvcApplicationPartsAssemblyInfo.cs
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/obj/Debug/net9.0/MyApiProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/obj/Debug/net9.0/MyApiProject.sourcelink.json
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/obj/Debug/net9.0/rjimswa.dswa.cache.json
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
 /Users/saujanyamahajan/Documents/WebApIWithEF/MyApiProject/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
