@@ -1,8 +1,15 @@
 using Microsoft.EntityFrameworkCore;
+using MyApiProject.Models;
 
-public class AppDbContext : DbContext
+namespace MyApiProject.Data
 {
-    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) 
-    {}
-    public DbSet<Employee> Employees {get; set;}
+    public class AppDbContext : DbContext
+    {
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        {
+        }
+
+        public DbSet<Customer> Customers { get; set; }
+        // public DbSet<Employee> Employees { get; set; } // already exists
+    }
 }

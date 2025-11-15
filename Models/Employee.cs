@@ -1,5 +1,9 @@
-public class Employee
+namespace MyApiProject.Models
 {
-    public int Id {get; set;}
-    public required string Name {get; set;}
+    public class Customer
+    {
+        public int Id { get; set; }
+        public string Name { get; set; } = null!;
+        public string Email { get; set; } = null!;
+    }
 }
