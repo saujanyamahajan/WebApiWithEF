@@ -10,6 +10,6 @@ namespace MyApiProject.Data
         }
 
         public DbSet<Customer> Customers { get; set; }
-        // public DbSet<Employee> Employees { get; set; } // already exists
+
     }
 }

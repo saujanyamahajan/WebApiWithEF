@@ -38,7 +38,7 @@ namespace MyApiProject.Controllers
         }
 
         // POST: api/customer
-        [HttpPost]
+       [HttpPost]
         public async Task<IActionResult> CreateCustomer([FromBody] Customer customer)
         {
             _context.Customers.Add(customer);
@@ -50,5 +50,6 @@ namespace MyApiProject.Controllers
                 Data = customer
             });
         }
+       
     }
 }
